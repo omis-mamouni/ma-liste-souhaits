@@ -25,7 +25,6 @@ Application mobile développée en React Native (Expo) permettant de créer, gé
 - TypeScript – Langage
 - [@react-navigation/native](https://reactnavigation.org/) – Navigation
 - [@react-native-async-storage/async-storage](https://react-native-async-storage.github.io/async-storage/docs/install/) – Stockage local
-- [expo-image-picker (optionnel)](https://docs.expo.dev/versions/latest/sdk/imagepicker/) – Gestion d’images locales
 - `Animated` & `Pressable` – Animations et interactions
 
 ---
